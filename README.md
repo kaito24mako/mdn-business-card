@@ -1,8 +1,11 @@
-This is a business card I created as part of a project "challenge" by mdn. It is under the "CSS styling basics" course.
+<p>This is a business card I created as part of a project "challenge" by mdn. It is under the "CSS styling basics" course.</p>
 
-Some challenges which I learned from were:
-  How to calculate and incorporate the em value 
-  Specificity
-  Color opacity (using rgba)
-  line-height property
+<body>
+  <ul><p>Some challenges which I learned from were:</p>
+    <li>How to calculate and incorporate the em value</li>
+    <li>Specificity</li>
+    <li>Color opacity (using rgba)</li>
+    <li>line-height property</li>
+</ul>
+</body>
   
